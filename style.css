@@ -1,0 +1,14 @@
+body {
+  background-color: orange;
+  color: black;
+}
+
+h1 {
+  background-color: black;
+  color: orange;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
